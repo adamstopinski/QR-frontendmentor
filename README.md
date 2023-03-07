@@ -7,5 +7,8 @@
 
 ## Author
 
+Adam Stopiński
+
+- GitHub - https://adamstopinski.github.io/QR-frontendmentor/
 
 - Frontend Mentor - https://adamstopinski.github.io/QR-frontendmentor/
