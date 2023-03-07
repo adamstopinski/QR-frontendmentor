@@ -7,5 +7,5 @@
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+
+- Frontend Mentor - https://adamstopinski.github.io/QR-frontendmentor/
